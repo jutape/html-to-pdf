@@ -1,0 +1,25 @@
+{
+  "name": "html-to-pdf",
+  "version": "0.0.0",
+  "description": "Transformando html to pdf usando node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jutape/html-to-pdf.git"
+  },
+  "keywords": [
+    "html",
+    "pdf",
+    "nodejs"
+  ],
+  "author": "jutape",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jutape/html-to-pdf/issues"
+  },
+  "homepage": "https://github.com/jutape/html-to-pdf#readme"
+}
